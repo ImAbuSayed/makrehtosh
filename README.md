@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا قمر الليل في سماه
+> قلبي ذايب في هواه
+> روحي وعمري فداك
+> خليني دايماً معاك
 > ...
 
 📄 **[View Full Lyrics →](./lyrics.txt)**
