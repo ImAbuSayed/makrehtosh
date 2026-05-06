@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 21, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/makrehtosh/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [License this song: Makrehtosh](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
