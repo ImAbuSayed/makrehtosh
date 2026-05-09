@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Makrehtosh
+
+This log tracks the cryptographic history and versioning for the song **Makrehtosh** (makrehtosh).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T13:59:02.120640 | `v1` | `e22f1b7ce79dfca26460634711496befc95d08c34d6539e89e4b474723bf16f5` | `de67c5ce4655e6bf506f1da37fc34a1d8e535cd87512a991d555b7086b188f79` | `2026-05-09_makrehtosh-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
